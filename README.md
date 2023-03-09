@@ -1,4 +1,4 @@
-<h1 align="center"> Informatics2  </h1>
+<h1 align="center"> Informatics 2  </h1>
 
 ## About Repository
 This is the material and my code for the course Informatics 2 in BME
